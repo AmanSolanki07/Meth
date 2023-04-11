@@ -24,7 +24,7 @@ public class Main {
 		MethodOverriding m2 = new MethodOverriding();
 		System.out.println(m1.add(10, 14));
 		System.out.println(m1.add(5, 4, 9));
-		System.out.println(m2.add(10, 2, 5));
+		System.out.println(m2.add(10, 2, 9));
 	}
 
 }
